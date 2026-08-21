@@ -1,5 +1,7 @@
 # NEON COP CHASE / NEON PURSUIT
 
+🎮 **Play online:** https://chibachaseygaming-arch.github.io/NEON-COP-CHASE/
+
 Latest browser build of the game.
 
 ## Controls
@@ -36,4 +38,4 @@ Latest browser build of the game.
 - Cockpit camera
 - Upgraded lighting, shadows, terrain, smoke, and explosions
 
-Open `index.html` through a web server or GitHub Pages. The game loads Three.js from jsDelivr, so internet access is required for Three.js.
+The game is deployed with GitHub Pages and loads Three.js from jsDelivr, so internet access is required for Three.js.
